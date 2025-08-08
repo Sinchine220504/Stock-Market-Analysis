@@ -1,0 +1,10 @@
+unnamed package
+com.stockplatform.analysis
+com.stockplatform.db
+com.stockplatform.fetcher
+com.stockTracker
+com.trading
+com.trading.exception
+com.trading.model
+com.trading.service
+com.trading.service.impl

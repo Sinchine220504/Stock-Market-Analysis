@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.stockplatform.analysis"},{"l":"com.stockplatform.db"},{"l":"com.stockplatform.fetcher"},{"l":"com.stockTracker"},{"l":"com.trading"},{"l":"com.trading.exception"},{"l":"com.trading.model"},{"l":"com.trading.service"},{"l":"com.trading.service.impl"}];updateSearchResults();
